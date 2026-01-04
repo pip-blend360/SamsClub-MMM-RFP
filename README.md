@@ -7,6 +7,9 @@ Repository with code to prepare for the Sams Club MMM RFP
 * Create a list of questions and written response
 * Add sufficient background material to guide the AI wrt Blend expertise and what makes an effective response
 
+## Background material 
+* Original RFP is "Sam's Club MMM RFP FY27 - External.pdf"
+
 ## Roles:
 1. Pip/Joe – Technical leads
 Lead the technical response. Ensure the fundamentals are strong while clearly articulating what differentiates us and how the solution scales.

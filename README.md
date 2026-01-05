@@ -26,6 +26,9 @@ Here are some interesting news stories that might help show that we are up todat
 * https://progressivegrocer.com/sams-clubs-map-evolving-retail-experience-network
 * https://www.thestreet.com/retail/sams-clubs-latest-moves-could-leave-costco-behind
 
+## Client Roles
+I defined several Sam's club personas in the Claude.md file. These agents should be consulted at any decision point. When consulted they will write a short document. The Sams-club-project-manager will be in charge of the document. The document should have a logical title. 
+
 ## Roles:
 1. Pip/Joe – Technical leads
 Lead the technical response. Ensure the fundamentals are strong while clearly articulating what differentiates us and how the solution scales.

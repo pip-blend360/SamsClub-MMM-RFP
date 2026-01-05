@@ -17,6 +17,11 @@ Sam's Club Growth Drivers Summary (Prioritized)
 * Create a list of questions and written response
 * Add sufficient background material to guide the AI wrt Blend expertise and what makes an effective response
 
+## Client Roles
+I defined several Sam's club personas in the Claude.md file. Please familiarize yourself with these persona. 
+
+These agents should be consulted at any decision point. They should act as their persona and give us feedback. When consulted they will write a short document. The Sams-Club-Project-manager will be in charge of the document. The document should have a logical title. 
+
 ## Online background material 
 Here are some interesting news stories that might help show that we are up todate.
 * https://corporate.walmart.com/about/samsclub/news/2025/04/11/sams-club-unveils-ambitious-growth-strategy-at-2025-investment-community-meeting
@@ -26,10 +31,8 @@ Here are some interesting news stories that might help show that we are up todat
 * https://progressivegrocer.com/sams-clubs-map-evolving-retail-experience-network
 * https://www.thestreet.com/retail/sams-clubs-latest-moves-could-leave-costco-behind
 
-## Client Roles
-I defined several Sam's club personas in the Claude.md file. These agents should be consulted at any decision point. When consulted they will write a short document. The Sams-club-project-manager will be in charge of the document. The document should have a logical title. 
-
-## Roles:
+## Human Roles:
+These do not matter that much. For the record, I am Pip. Use these to assign tasks.
 1. Pip/Joe – Technical leads
 Lead the technical response. Ensure the fundamentals are strong while clearly articulating what differentiates us and how the solution scales.
 1. Tom H – TPM / process owner

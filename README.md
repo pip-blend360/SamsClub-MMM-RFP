@@ -1,5 +1,15 @@
 # SamsClub-MMM-RFP
-Repository with code to prepare for the Sams Club MMM RFP
+This repository includes information about the Sam's Club MMM RFP. The orginal RFM is in the file "Sam's Club MMM RFP FY27 - External.pdf", please read that file to begin.
+
+Sam's Club Growth Drivers Summary (Prioritized)
+* Member Acquisition - New members, especially younger demographics
+* E-commerce Expansion - 15% → 40% penetration (15-18% → 40%)
+* Physical Expansion - 15 new clubs annually after years of contraction
+* Member Retention - >90% renewal rates, Plus tier conversion
+* Share of Wallet - Fresh food, Member's Mark, basket building (pizza strategy)
+* Digital Engagement - Scan & Go adoption driving 3x spend
+* New Revenue Streams - MAP advertising, services businesses
+* Operational Efficiency - AI tools, Walmart infrastructure leverage
 
 ## Objectives
 * Use a combination of Claude and CoPilot to guide development of our response to the Sams Club MMM RFP
@@ -7,8 +17,14 @@ Repository with code to prepare for the Sams Club MMM RFP
 * Create a list of questions and written response
 * Add sufficient background material to guide the AI wrt Blend expertise and what makes an effective response
 
-## Background material 
-* Original RFP is "Sam's Club MMM RFP FY27 - External.pdf"
+## Online background material 
+Here are some interesting news stories that might help show that we are up todate.
+* https://corporate.walmart.com/about/samsclub/news/2025/04/11/sams-club-unveils-ambitious-growth-strategy-at-2025-investment-community-meeting
+* https://mass-analytics.com/marketing-mix-modeling-event/mass-analytics-sponsors-i-com-summit-partnering-with-sams-club/
+* https://www.businesswire.com/news/home/20230321005440/en/Sams-Club-Member-Access-Platform-MAP-Pioneers-True-Closed-Loop-Omnichannel-Attribution-for-Advertising
+* https://mass-analytics.com/marketing-mix-modeling-event/mass-analytics-sponsors-i-com-summit-partnering-with-sams-club/
+* https://progressivegrocer.com/sams-clubs-map-evolving-retail-experience-network
+* https://www.thestreet.com/retail/sams-clubs-latest-moves-could-leave-costco-behind
 
 ## Roles:
 1. Pip/Joe – Technical leads
